@@ -1,4 +1,4 @@
-#Exploring network analysis using osmnx
+# Exploring network analysis using osmnx
 
 So far I have only managed to get a basic formatted network map up.
 
