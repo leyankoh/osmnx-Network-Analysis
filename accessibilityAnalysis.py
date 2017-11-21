@@ -11,8 +11,6 @@ import pandana
 from pandana.loaders import osm
 import fiona
 import pandas as pd
-import numpy as np 
-import geopandas as gpd 
 
 from unidecode import unidecode
 

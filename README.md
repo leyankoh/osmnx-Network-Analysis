@@ -30,3 +30,7 @@ This could be pushed further if I used the point data loaded directly from the s
 
 ![Access_clondon](https://i.imgur.com/waEo0bI.png)
 
+# To do:
+* Try out different kinds of colour maps for visualisation
+* Try different presentation technique (hexagons instead of nodes)
+* Use different amenities to calculate a more meaningful accessibility map
